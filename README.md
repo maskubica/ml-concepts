@@ -1,8 +1,28 @@
 # ml-concepts
 
-# 1
+# Data preparation & Cleaning
+## Missing data
+## Imputation methods
+## Outliers
+### Univariate analysis
+### Bivariate and Multivariate analysis
 
-## 2
+# Data exploration
+
+# Feature engineering
+
+# Machine learning models
+
+## Supervised models
+### Linear regression
+###
+
+
+## Unsupervised models
+
+
+
+# 
 
 ### 3
 
